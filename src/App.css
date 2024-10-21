@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.blog-list {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.blog-post h1 {
+  color: #333;
+}
+
+.blog-post p {
+  line-height: 1.6;
+}
